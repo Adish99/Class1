@@ -1,3 +1,3 @@
 # Class1
-This is my repo of my regular class and This is my first commit.
+This is my repo of my regular class and This is my first commit.<br/>
 Hello there
